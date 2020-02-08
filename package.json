@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MrKoukkula/Noppapeli/issues"
   },
-  "homepage": "https://github.com/MrKoukkula/Noppapeli#readme"
+  "homepage": "https://github.com/MrKoukkula/Noppapeli#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4"
+  }
 }
